@@ -1,7 +1,7 @@
 ## <p align="center">Hellow Word!!! I'm Vinicius Henrique, desenvolvedor Junior de Front-End.</p>
 
 **Sobre mim**
-- 😁✌️ Sou um dev de Front-End autodidata do Brasil;
+- 😁Sou um dev de Front-End autodidata do Brasil;
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos no Html, CSS & JavaScript;
 - 🤓 Estou estudando também NodeJs e Python3.
 
