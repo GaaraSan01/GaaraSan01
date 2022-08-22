@@ -2,7 +2,7 @@
 **Sobre mim**
 - 😁Sou um dev de Front-End autodidata do Brasil;
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos no Html, CSS & JavaScript;
-- 🤓 Estou estudando também NodeJs e Python3.
+- 🤓 Estou estudando também ReactJs, Typescript e Python3.
 <div align="center">
   <a href="https://github.com/GaaraSan01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaaraSan01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
