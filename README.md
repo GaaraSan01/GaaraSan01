@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Henrique;I'm+a+Front-End+Developer+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Henrique;I'm+a+FullStack+Developer+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
 **Sobre mim**
-- 😁Sou um dev de Front-End autodidata do Brasil;
-- 👨‍💻 Atualmente estou aprimorando meus conhecimentos no Html, CSS & JavaScript;
-- 🤓 Estou estudando também ReactJs, Typescript e Python3.
+
+- 😁 Sou um Dev. FullStack autodidata do Brasil;
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar;
+- 👨‍💻 Atualmente estou aprimorando meus conhecimentos em ReactJs, Typescript e Python3
+
 
 **Mais detalhes**
 
