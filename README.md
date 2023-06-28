@@ -19,7 +19,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaaraSan01&theme=tokyonight"/>
   </a>
   <a href="https://github.com/GaaraSan01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorlgim&hide_border=true&card_width=310&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaaraSan01&hide_border=true&card_width=310&theme=tokyonight" />
   </a>
   <a href="https://github.com/GaaraSan01">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaaraSan01&theme=tokyonight" />
