@@ -2,7 +2,7 @@
 **Sobre mim**
 
 - 😁 Sou um Dev. FullStack autodidata do Brasil;
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar;
+- 📚 Estudante de Engenharia de Software na Unicesumar;
 - 👨‍💻 Atualmente estou aprimorando meus conhecimentos em ReactJs, Typescript e Python3.
 
 
