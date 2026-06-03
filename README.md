@@ -1,40 +1,99 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Henrique;I'm+a+FullStack+Developer+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
-**Sobre mim**
+<div align="center">
 
-- 😁 Sou um Dev. FullStack autodidata do Brasil;
-- 📚 Estudante de Engenharia de Software na Unicesumar;
-- 👨‍💻 Atualmente estou aprimorando meus conhecimentos em ReactJs, Typescript e Python3.
+```
+╔══════════════════════════════════════════════════════════╗
+║              VINICIUS H  //  SYSTEM BOOT                 ║
+║  CLASS: Fullstack Developer  |  ORIGIN: Curitiba, BR     ║
+║  STATUS: online ●            |  MODE: freelancer         ║
+╚══════════════════════════════════════════════════════════╝
+```
 
+# VINÍCIUS H.
 
-**Mais detalhes**
+### `Desenvolvedor Fullstack · Engenharia de Software · Freelancer`
+
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-vnicidigital.com.br-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://viniciush.vnicidigital.com.br/)
+[![Curitiba](https://img.shields.io/badge/📍_CURITIBA-PR_·_BRASIL-00aaff?style=for-the-badge&labelColor=0d0d0d)](#)
+[![Desde](https://img.shields.io/badge/💾_AUTODIDATA-DESDE_2021-ff6b35?style=for-the-badge&labelColor=0d0d0d)](#)
+
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name:     Vinícius H.
+role:     Fullstack Developer
+status:   Estudante de Engenharia de Software
+mission:
+  - construir sistemas robustos do back-end ao front-end
+  - transformar ideias em produtos digitais reais
+  - evoluir constantemente como desenvolvedor
+location: Curitiba, PR — Brasil
+freelance: disponível para projetos
+learning_since: 2021
+```
+
+---
+
+## `> scan --stack`
 
 <div align="center">
-  <a href="https://github.com/GaaraSan01">
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GaaraSan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaaraSan01&layout=compact&langs_count=7&theme=tokyonight"/>
+
+| Back-end | Front-end | Multiparadigma |
+|:---:|:---:|:---:|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+
 </div>
-<details>
-<p align="center">
-  <a href="https://github.com/GaaraSan01">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaaraSan01&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/GaaraSan01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaaraSan01&hide_border=true&card_width=310&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/GaaraSan01">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaaraSan01&theme=tokyonight" />
-  </a>
-</p>
-</details>
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
+```js
+const vinicius = {
+  languages : ["PHP", "JavaScript", "TypeScript", "C#", "Java", "Python"],
+  profile   : "Fullstack Developer",
+  focus     : ["Web Development", "Software Engineering", "Clean Code"],
+  freelance : true,
+  location  : "Curitiba, PR 🌲",
+};
+```
+
+---
+
+## `> stats --github`
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaaraSan01&theme=github_dark)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=435&lines=Fullstack+Developer;Software+Engineer;Curitiba%2C+PR+🌲)](https://git.io/typing-svg)
+
 </div>
-    
+
+---
+
+## `> ping --contact`
+
+<div align="center">
+
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://viniciush.vnicidigital.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/viniciushms/))
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciushenriquemdossantos@gmail.com)
+
+</div>
+
+---
+
+```
+$ initialize vinicius.exe
+  ↳ carregando habilidades fullstack........... ✓
+  ↳ conectando ao ecossistema github........... ✓
+  ↳ ativando modo freelancer.................. ✓
+  ↳ calibrando café........................... ✓
+
+  SISTEMA ONLINE — PRONTO PARA CODAR. 🚀
+```
+
+<div align="center">
+  <sub>⚡ Feito com código, café e dedicação — Curitiba, PR 🌲</sub>
+</div>
