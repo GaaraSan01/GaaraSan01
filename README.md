@@ -12,9 +12,9 @@
 
 ### `Desenvolvedor Fullstack · Engenharia de Software · Freelancer`
 
-[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-vnicidigital.com.br-00ff88?style=for-the-badge&labelColor=0d0d0d)](https://viniciush.vnicidigital.com.br/)
-[![Curitiba](https://img.shields.io/badge/📍_CURITIBA-PR_·_BRASIL-00aaff?style=for-the-badge&labelColor=0d0d0d)](#)
-[![Desde](https://img.shields.io/badge/💾_AUTODIDATA-DESDE_2021-ff6b35?style=for-the-badge&labelColor=0d0d0d)](#)
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-vnicidigital.com.br-FF0000?style=for-the-badge&labelColor=0d0d0d)](https://viniciush.vnicidigital.com.br/)
+[![Curitiba](https://img.shields.io/badge/📍_CURITIBA-PR_·_BRASIL-FF0000?style=for-the-badge&labelColor=0d0d0d)](#)
+[![Desde](https://img.shields.io/badge/💾_AUTODIDATA-DESDE_2021-FF0000?style=for-the-badge&labelColor=0d0d0d)](#)
 
 </div>
 
@@ -66,7 +66,7 @@ const vinicius = {
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaaraSan01&theme=github_dark)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&width=435&lines=Fullstack+Developer;Software+Engineer;Curitiba%2C+PR+🌲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&width=435&lines=Fullstack+Developer;Software+Engineer;Curitiba%2C+PR+🌲)](https://git.io/typing-svg)
 
 </div>
 
@@ -76,7 +76,7 @@ const vinicius = {
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://viniciush.vnicidigital.com.br/)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viniciush.vnicidigital.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/viniciushms/))
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciushenriquemdossantos@gmail.com)
 
